@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-ui/static/css/main.b7868a97.css",
-    "main.js": "/portfolio-ui/static/js/main.04a229e7.js",
+    "main.js": "/portfolio-ui/static/js/main.ac6136a5.js",
     "static/media/git_branches.jpg": "/portfolio-ui/static/media/git_branches.9f2c0788254a57fa13bf.jpg",
     "static/media/math_bg.jpg": "/portfolio-ui/static/media/math_bg.b2e42282626335f070ac.jpg",
     "static/media/pattern-tree.svg": "/portfolio-ui/static/media/pattern-tree.156bb943ac7fd244f10c115d085e085e.svg",
@@ -69,6 +69,6 @@
   },
   "entrypoints": [
     "static/css/main.b7868a97.css",
-    "static/js/main.04a229e7.js"
+    "static/js/main.ac6136a5.js"
   ]
 }
